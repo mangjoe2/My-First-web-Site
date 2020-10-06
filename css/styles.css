@@ -6,9 +6,6 @@ body{
     text-align: center;
     font-family: 'Merriweather Sans', serif;
     image-resolution: 30px;
-    background-image: image('..images/angela.JPG');
-    
-    /* color: #40514E; */
 }
 
 h1{
